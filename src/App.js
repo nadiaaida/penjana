@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <Landing/>
 
-      <button className="border-2" onClick={() => navigate('/myprofile')}>Go to my profile</button>
+      <button className="border-2" onClick={() => navigate('/myprofile')}>Go to my profile hehehe</button>
     </div>
     
   );
